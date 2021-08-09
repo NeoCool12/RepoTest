@@ -10,7 +10,8 @@ class MainActivity : AppCompatActivity() {
     }
 
     //documentacion
-    fun sum(){
-
+    fun sum(): Int {
+        //sumar dos enteros y mostrar el resultado por pantalla
+        return 4
     }
 }
